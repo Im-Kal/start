@@ -8,6 +8,16 @@ html {
     box-sizing: inherit
 }
 
+#time {
+  display: flex;
+  justify-content: center;
+}
+
+#date {
+  display: flex;
+  justify-content: center;
+}
+
 body {
     background: #222 no-repeat center/cover fixed;
     font: 20px -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
